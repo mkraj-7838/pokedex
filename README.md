@@ -13,7 +13,7 @@ A dynamic application that fetches and displays information about Pokémon using
 
 ## Demo
 
-Check out the live demo: [Demo Link](#)
+Check out the live demo: [Demo Link](https://mkraj-7838.github.io/pokedex/)
 
 ## Installation
 
